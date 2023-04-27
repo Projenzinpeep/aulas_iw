@@ -1,0 +1,21 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: red;
+}
+
+.container{
+    width: 80%;
+    background-color: crimson;
+    margin: auto;
+
+
+}
+
+footer{
+    background-color: darkred;
+    width: 100%;
+}
+
